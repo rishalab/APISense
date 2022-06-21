@@ -1,0 +1,4 @@
+{
+	"tf.image.decode_jpeg()": "tf.image.decode_image()",
+	"image.resize()": "image.resize_with_crop_or_pad()"
+}

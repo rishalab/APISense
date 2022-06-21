@@ -1,0 +1,7 @@
+{
+	"tf.merge_summary()": "tf.summary.merge()",
+	"tf.merge_all_summaries()": "tf.summary.merge_all()",
+	"tf.train.SummaryWriter()": "tf.summary.FileWriter()",
+	"tf.histogram_summary()": "tf.summary.histogram()",
+	"tf.scalar_summary()": "tf.summary.scalar()"
+}
