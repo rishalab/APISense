@@ -26,7 +26,7 @@ The tool has been tested on Linux 64bit and we recommend using Linux.
 
 
 
-    git clone https://github.com/rishalab/D-API-L.git
+    git clone https://github.com/rishalab/APISense.git
 
 
 
