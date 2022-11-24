@@ -1,5 +1,4 @@
-# D-API-L: A tool for detecting API Misuses in Python Deep Learning Libraries
-
+# APISense: An API Misuse Detector for Python Deep Learning Libraries
 
 ###Features
 ----
@@ -7,7 +6,7 @@
 - Detects nine API misuse patterns
 - Classifies detected misuses into different categories and generates a report
 
-###Working of D-API-L
+###Working of APISense
 ----
 ![](architecture.png)
 
@@ -73,7 +72,7 @@ The detector will run and output the report for any API misuse detected.
 
 ###Demonstration Video
 
-The demonstration video can be found on Youtube using the following link: https://youtu.be/ypgu_DHiXvs
+The demonstration video can be found on Youtube using the following link: https://youtu.be/khK3dO_3MBQ
 
 ###Contribute
 
