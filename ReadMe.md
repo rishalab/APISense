@@ -34,7 +34,7 @@ The tool has been tested on Linux 64bit and we recommend using Linux.
  
  
 
-    cd D-API-L
+    cd APISense
 
 - Paste your test file into the testfiles folder
 - Run the *Detect.py* file
