@@ -72,7 +72,7 @@ The detector will run and output the report for any API misuse detected.
 
 ###Demonstration Video
 
-The demonstration video can be found on Youtube using the following link: https://youtu.be/khK3dO_3MBQ
+The demonstration video can be found on Youtube using the following link: https://youtu.be/CDIsKiFvlWE
 
 ###Contribute
 
